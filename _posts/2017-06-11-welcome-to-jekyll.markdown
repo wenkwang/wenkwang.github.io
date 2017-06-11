@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Yao's Blog!"
 date:   2017-06-11 15:48:47 -0400
 categories: jekyll update
 ---
