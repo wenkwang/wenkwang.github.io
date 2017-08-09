@@ -1,0 +1,14 @@
+current directory: /var/git/wenkwang.github.io/vendor/cache/ruby/gems/json-2.1.0/ext/json
+/usr/bin/ruby -r ./siteconf20170612-21382-ae673e.rb extconf.rb
+creating Makefile
+
+current directory: /var/git/wenkwang.github.io/vendor/cache/ruby/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+rm -f .so  *.o  *.bak mkmf.log .*.time
+
+current directory: /var/git/wenkwang.github.io/vendor/cache/ruby/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /var/git/wenkwang.github.io/vendor/cache/ruby/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
