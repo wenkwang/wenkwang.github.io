@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C#.NET - Delegates
+title: C# - Delegates
 ---
 In C#, the delegate is a topic not very straightforward to understand, especially for those who are mainly playing in the Java world like me. Recently, I got a chance to look over some materials about delegates in C# and I'd like to write it down here for my record and hopefully help you guys as well.  
 From what I can see at this point, delegates have two main interesting features. One is encapsulation, the other is composition. But before I go deeper with these two features, let me describe some basic concepts first.
