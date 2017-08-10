@@ -70,7 +70,7 @@ namespace PlayerClient
 ```
 In this example above, the method PlayMusic in class Player doesn't need to know which exact the method is passed in, it only cares the type of the method, its return type and parameters. On more thing here is that the delegate objects are immutable, once a delegate is created with a certain method, then it won't change. If you want to associate with another method, you need to create a new delegate object.
 
-**Composition**
+**Composition**  
 This is the most interesting part I found about the delegate. For delegate objects, they could be composed with '+' operator, and once you call the composed objects, all the delegate components will be invoked. Of course, all these delegate objects should be in the same type. Also, you can use '-' operator to remove a certain delegate from a composed object.
 
 Here is an example:
